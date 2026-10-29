@@ -1,0 +1,27 @@
+MATCHA - PRACTICA COMPLETA DE LA GUIA (CHECKPOINTS 1-5)
+
+1) Desde la terminal de VS Code, en la carpeta donde creaste el proyecto:
+   cd matcha
+   npm run reset-project
+   (si pide mover a example, escribe Y; elimina example si quieres)
+
+2) Instala dependencias dentro de matcha:
+   npx expo install @expo/vector-icons expo-font @expo-google-fonts/zalando-sans-semiexpanded @expo-google-fonts/lexend @expo-google-fonts/inder
+
+3) DESCOMPRIME este ZIP. Copia SUS CARPETAS src y assets y PEGALAS
+   DENTRO de la carpeta matcha, la que contiene package.json.
+   Si pregunta, combina las carpetas y reemplaza los archivos.
+   No pongas una carpeta extra matcha_entrega dentro de matcha.
+
+4) Arranca la app:
+   npx expo start -c
+
+5) Abre Expo Go con el QR o presiona w para la vista web.
+   Prueba: Menu -> Te verde -> Pedir -> nombre de 3 letras y 8 numeros
+   -> Confirmar pedido -> Volver al menu.
+
+Si aparece pantalla roja, manda captura y revisamos.
+
+NOTA: Las imagenes incluidas son ilustraciones originales de apoyo para
+poder ejecutar la practica sin descargar fotografias. Si el docente exige
+fotos, cambia solo los 3 PNG por otros con los mismos nombres.
